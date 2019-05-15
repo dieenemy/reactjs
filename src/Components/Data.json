@@ -1,0 +1,34 @@
+[
+    {
+      "id":1,
+      "name":"Pacific rim",
+      "tel": "0909090909",
+      "Permission":1  
+    },
+    
+    {
+      "id":2,
+      "name":"The end",
+      "tel": "0123456789",
+      "Permission":2  
+    },
+    {
+      "id":3,
+      "name":"Avenger",
+      "tel": "0987654321",
+      "Permission":3 
+    },
+    {
+      "id":4,
+      "name":"Avatar",
+      "tel": "0891235467",
+      "Permission":2  
+    },
+    {
+      "id":5,
+      "name":"Titanic",
+      "tel": "0988888888",
+      "Permission":5 
+    }
+
+]
